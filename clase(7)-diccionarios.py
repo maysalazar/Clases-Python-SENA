@@ -6,7 +6,7 @@
 
  recordar que los diccionarios se crean con llaves {}
 
- ejemplo'''
+ ejemplo     continuamos modificando'''
 
 
 # diccionario = {"azul":"blue","rojo":"red","verde":"green"}
